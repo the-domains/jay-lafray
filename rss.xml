@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jay Lafray]]></title>
+        <description><![CDATA[Jay Lafray]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 19:48:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo Shoot Gallery]]></title>
+            <description><![CDATA[<article><h1>Photo Shoot Gallery</h1><p>Charlie Couch Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f326b5c2902f5b4cab62c837c169a971cc3c1eb.jpg"></article>]]></description>
+            <link>undefinedphoto-shoot-gallery/index.html</link>
+            <guid isPermaLink="false">3471dddc-f44e-404e-8473-cb0359cef851</guid>
+            <pubDate>Tue, 02 Feb 2016 19:48:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
