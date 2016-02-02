@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Official Website of Jay Lafray]]></title>
         <description><![CDATA[Official Website of Jay Lafray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jay-lafray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 21:04:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 21:04:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jay-lafray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Charlie Couch Photo Shoot]]></title>
+            <description><![CDATA[<article><h1>Charlie Couch Photo Shoot</h1><p>Photo Shoot Gallery</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e041e0e49f84f55af80dc6bd63aa10c0b6c8a31e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jay-lafray/16f2bc84-1e92-40bb-90f9-fff973d06fee/index.html</link>
+            <guid isPermaLink="false">16f2bc84-1e92-40bb-90f9-fff973d06fee</guid>
+            <pubDate>Tue, 02 Feb 2016 21:04:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Official Facebook of Jay Lafray</p>]]></description>
