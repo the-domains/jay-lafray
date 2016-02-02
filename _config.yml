@@ -1,6 +1,6 @@
 name: Jay Lafray
 favicon: null
-layout_spectrum: 0.002977022435516119
+layout_spectrum: 0
 typography_spectrum: 0.4272517445497215
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.06870754016563296
-  lightness: 0.38412331975996494
-  saturation: 0.8519909493625164
-  rhythmicContrast: 0.5157286231406033
+    - '#000000'
+    - '#fefefe'
+    - '#e2012b'
+    - '#742e64'
+    - '#8c86a8'
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
