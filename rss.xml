@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Official Website of Jay Lafray]]></title>
         <description><![CDATA[Official Website of Jay Lafray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jay-lafray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 17:41:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 17:41:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jay-lafray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jay Lafray (@jaylafray) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>Jay Lafray (@jaylafray) * Instagram photos and videos</h1><img src="https://scontent.cdninstagram.com/t51.2885-19/10787875_660705580693700_285516989_a.jpg"></article>]]></description>
+            <link>https://www.instagram.com/jaylafray/</link>
+            <guid isPermaLink="false">2c46dfe6-28cf-4d2b-b14f-07f99e8ca4c6</guid>
+            <pubDate>Thu, 18 Feb 2016 17:41:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Jay Lafray (@JayLafray). Socialite - Philanthropist - Spokes model - Marine - Model - Karma International/Playboy Event Host I speak my mind. I workout. I'm a Gentleman at heart. California</p>]]></description>
