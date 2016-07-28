@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
+  saturation: 0
   brandStrength: 0.125
-  lightness: 0.5
+  lightness: 0
   brandColors:
     - '#000000'
     - '#fefefe'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Jay Lafray
 favicon: null
+name: Jay Lafray
 opengraph:
   image: null
   type: null
