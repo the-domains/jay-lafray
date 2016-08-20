@@ -13,9 +13,9 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5182599
+  saturation: 0.433405
   brandStrength: 0.125
-  lightness: 0.4967777
+  lightness: 0.3388829
   brandColors:
     - '#000000'
     - '#fefefe'
@@ -27,12 +27,12 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Jay Lafray
-favicon: null
 opengraph:
   image: null
   type: null
