@@ -1,5 +1,31 @@
-title: Official Website of Jay Lafray
-purpose: []
+typography_spectrum: 0.4272517445497215
+color:
+  saturation: 0.433405
+  brandStrength: 0.125
+  lightness: 0.3388829
+  brandColors:
+    - '#000000'
+    - '#fefefe'
+    - '#e2012b'
+    - '#742e64'
+    - '#8c86a8'
+  rhythmicContrast: 0.4505908
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b2d231-2289-40ea-8998-dc2adce8d733.jpg
+  type: null
+  appId: null
+layout_spectrum: 0.13004
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Jay Lafray
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +38,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.433405
-  brandStrength: 0.125
-  lightness: 0.3388829
-  brandColors:
-    - '#000000'
-    - '#fefefe'
-    - '#e2012b'
-    - '#742e64'
-    - '#8c86a8'
-  rhythmicContrast: 0.4505908
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Jay Lafray
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4272517445497215
-layout_spectrum: 0.13004
+title: Official Website of Jay Lafray
+purpose: []
